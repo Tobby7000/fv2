@@ -51,7 +51,7 @@
     { "name": "Snail", "desc": "Giant African land snail, tender and richly seasoned.", "price": 25, "category": "Seafood", "image": "https://res.cloudinary.com/vi6ymjjp/image/upload/v1782859217/maxresdefault-5_fgxkhe.jpg" },
     { "name": "Ugba", "desc": "Fermented oil-bean salad, available on request.", "price": null, "category": "Seafood", "image": "https://res.cloudinary.com/vi6ymjjp/image/upload/v1782859216/IMG_20241101_141731_dojjak.jpg" },
 
-    { "name": "Yam Porridge (Asaro)", "desc": "Soft-cooked yam pottage in a peppery palm-oil sauce.", "price": 12, "category": "Specialty", "image": "hhttps://res.cloudinary.com/vi6ymjjp/image/upload/v1782859221/asaro-10-800x1200_mq96vo.jpg" },
+    { "name": "Yam Porridge (Asaro)", "desc": "Soft-cooked yam pottage in a peppery palm-oil sauce.", "price": 12, "category": "Specialty", "image": "https://res.cloudinary.com/vi6ymjjp/image/upload/v1782861973/asaro-2_r7jb7s.jpg" },
     { "name": "Beans", "desc": "Slow-cooked honey beans, served plain or with stew.", "price": 6, "category": "Specialty", "image": "https://res.cloudinary.com/vi6ymjjp/image/upload/v1782859212/Slow-Cooker-Vegetarian-Baked-Beans-FI_ywx3gg.jpg" }
   ]
 }
