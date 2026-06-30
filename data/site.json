@@ -1,0 +1,54 @@
+{
+  "restaurant": {
+    "name": "Festac Grill & Lounge",
+    "legalName": "Festac Grill & Lounge Inc.",
+    "address": "263/273 Hendrix Street, Brooklyn, NY 11207",
+    "phones": ["(347) 627-5151", "(347) 750-5152"],
+    "email": "hello@festacgrill.com",
+    "adminEmail": "hello@festacgrill.com",
+    "hours": "Monday – Sunday, 11:00am – 11:00pm",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "facebook": "https://facebook.com/",
+      "tiktok": "https://tiktok.com/"
+    },
+    "mapEmbedUrl": "REPLACE_WITH_GOOGLE_MAPS_EMBED_URL"
+  },
+  "hero": {
+    "eyebrow": "Brooklyn, New York",
+    "headlineLead": "Home food,",
+    "headlineEmphasis": "away from home",
+    "subtext": "An elevated celebration of Nigerian and West African cuisine — slow-cooked soups, smoky grills, and the warmth of a table that feels like family.",
+    "backgroundImage": "https://images.unsplash.com/photo-1579027989536-b7b1f875659b?auto=format&fit=crop&w=2000&q=80"
+  },
+  "about": {
+    "eyebrow": "Our story",
+    "heading": "Authentically Nigerian, unapologetically premium",
+    "paragraphs": [
+      "Festac Grill & Lounge began with a simple promise — that the flavors of home should never be diluted to travel. Every pot of egusi, every grain of jollof, is built the long, patient way: stock simmered for hours, peppers ground fresh, fish smoked over open flame.",
+      "From our kitchen in Brooklyn, we plate the dishes of Lagos buka spots and Sunday family tables alike, elevated for a dining room that honors the craft behind the cuisine."
+    ],
+    "stats": [
+      { "value": "30+", "label": "Signature dishes" },
+      { "value": "100%", "label": "Fresh, daily prep" },
+      { "value": "5★", "label": "Guest rated" }
+    ],
+    "images": {
+      "interior": "https://images.unsplash.com/photo-1552566626-2d907dab0dff?auto=format&fit=crop&w=1200&q=80",
+      "chef": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80"
+    }
+  },
+  "gallery": [
+    { "label": "Dining room", "image": "https://images.unsplash.com/photo-1552566626-2d907dab0dff?auto=format&fit=crop&w=900&q=80" },
+    { "label": "Suya & specialty plates", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=900&q=80" },
+    { "label": "Bar & lounge", "image": "https://images.unsplash.com/photo-1687945512099-400cbe94460c?auto=format&fit=crop&w=900&q=80" },
+    { "label": "Jollof rice, plated", "image": "https://images.unsplash.com/photo-1604329756574-bda1f2cada6f?auto=format&fit=crop&w=900&q=80" },
+    { "label": "Soups & stews", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=900&q=80" },
+    { "label": "Private dining table", "image": "https://images.unsplash.com/photo-1583354608715-177553a4035e?auto=format&fit=crop&w=900&q=80" }
+  ],
+  "testimonials": [
+    { "name": "Adaeze O.", "location": "Brooklyn, NY", "text": "The egusi tasted exactly like home. Service was warm, the lounge felt elegant without being stiff." },
+    { "name": "Marcus T.", "location": "Queens, NY", "text": "Best suya I've had outside Lagos. The jollof had that real smoky flavor — clearly made with care." },
+    { "name": "Funmi A.", "location": "Brooklyn, NY", "text": "We booked the private table for a birthday and it was flawless. Isiewu and nkwobi disappeared in minutes." }
+  ]
+}

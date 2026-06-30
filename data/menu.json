@@ -1,0 +1,57 @@
+{
+  "categories": ["Appetizers", "Soups", "Rice", "Stews", "Grills", "Seafood", "Specialty"],
+  "signature": [
+    "Jollof Rice",
+    "Egusi Soup",
+    "Suya",
+    "Isiewu",
+    "Nkwobi",
+    "Yam Porridge (Asaro)"
+  ],
+  "_note": "Images below are free-to-use Unsplash stock photos (no attribution required) standing in for real dish photography. They are assigned per-category (several dishes that share a category share a representative photo). Six signature dishes have distinct overrides for visual variety on the homepage. Replace any 'image' value with your own photo URL or a /images/menu/your-file.jpg path whenever you have real photography — no other code needs to change.",
+  "items": [
+    { "name": "Suya", "desc": "Spiced, skewered grilled beef rubbed in dry pepper and groundnut spice.", "price": 25, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Meat Pie", "desc": "Flaky pastry parcel filled with seasoned minced meat and potato.", "price": 3, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Dodo", "desc": "Sweet fried plantain, golden and caramelized.", "price": 5, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Fish Roll", "desc": "Savory pastry roll filled with seasoned fish.", "price": 3, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Chin Chin", "desc": "Crunchy, lightly sweetened fried dough bites.", "price": 2, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Moi Moi", "desc": "Steamed bean pudding made from blended black-eyed peas and peppers.", "price": 4, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Moi Moi with Egg", "desc": "Our classic moi moi, steamed with a whole egg inside.", "price": 5, "category": "Appetizers", "image": "https://images.unsplash.com/photo-1583946193644-49fe1fe958cf?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Egusi Soup", "desc": "Ground melon seed soup simmered with assorted meat and fish, served with your choice of swallow.", "price": 25, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Banga Soup", "desc": "Rich palm-fruit soup from the Niger Delta, deeply spiced and savory.", "price": 26, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Ogbono Soup", "desc": "Drawn soup thickened with ground ogbono seeds, mixed meat and fish.", "price": 25, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Bitter Leaf & Mixed Meat", "desc": "Traditional bitter leaf soup balanced with assorted meats.", "price": 29, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Efo (Spinach) Soup", "desc": "Stewed vegetable soup with smoked fish and assorted meat.", "price": 25, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Okra & Stew", "desc": "Diced okra soup cooked down with stew, fish and meat.", "price": 25, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Edikaikon", "desc": "Layered vegetable soup of waterleaf and ugu, rich with assorted protein.", "price": 27, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Ewedu Soup", "desc": "Silky jute-leaf soup, the classic companion to amala.", "price": 25, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Okra Soup (Ila Alasepo)", "desc": "Yoruba-style okra soup, light and full of seafood depth.", "price": 27, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Goat Soup", "desc": "Tender goat meat simmered in a deeply seasoned light soup.", "price": 23, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Fish Pepper Soup (Tilapia)", "desc": "Whole tilapia in a fiery, aromatic pepper-soup broth.", "price": 20, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Cat Fish Pepper Soup", "desc": "Catfish simmered in our signature spiced pepper soup.", "price": 22, "category": "Soups", "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Jollof Rice", "desc": "Smoky party-style jollof, served with mixed meat.", "price": 25, "category": "Rice", "image": "https://images.unsplash.com/photo-1604329756574-bda1f2cada6f?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Fried Rice", "desc": "Nigerian-style fried rice with mixed vegetables and mixed meat.", "price": 26, "category": "Rice", "image": "https://images.unsplash.com/photo-1604329756574-bda1f2cada6f?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "White Rice & Stew", "desc": "Steamed white rice paired with our rich tomato stew and mixed meat.", "price": 24, "category": "Rice", "image": "https://images.unsplash.com/photo-1604329756574-bda1f2cada6f?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Buka Stew", "desc": "Classic Nigerian buka-style tomato stew, served over white rice.", "price": 24, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Fish Stew", "desc": "Tomato pepper stew built around fresh fish, served with white rice.", "price": 25, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Mixed Meat Stew", "desc": "Our house stew loaded with assorted meats, served with white rice.", "price": 23, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Mackerel Fish", "desc": "Whole mackerel, fried or stewed to order.", "price": 18, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Croaker Fish with Stew", "desc": "Croaker fish simmered in seasoned tomato stew.", "price": 20, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Croaker Fish", "desc": "Whole croaker, lightly fried and seasoned.", "price": 17, "category": "Stews", "image": "https://images.unsplash.com/photo-1583946194172-b98f98454c1b?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Fried Goat Meat", "desc": "Deep-fried, well-spiced goat meat — sold per piece.", "price": 6, "category": "Grills", "image": "https://images.unsplash.com/photo-1604329757141-fbd34e07870d?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Isiewu", "desc": "Spiced, slow-cooked goat head delicacy, a Nigerian favorite.", "price": 35, "category": "Grills", "image": "https://images.unsplash.com/photo-1604329757141-fbd34e07870d?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Nkwobi", "desc": "Spicy cow-foot delicacy in a rich palm-oil and pepper sauce.", "price": 25, "category": "Grills", "image": "https://images.unsplash.com/photo-1604329759376-185668a40932?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Stockfish", "desc": "Dried, rehydrated whitefish prepared the traditional way.", "price": 35, "category": "Seafood", "image": "https://images.unsplash.com/photo-1604329758197-8a4a1b79a797?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Dried Fish", "desc": "Smoke-dried fish, prepared on request — price varies by size.", "price": null, "category": "Seafood", "image": "https://images.unsplash.com/photo-1604329758197-8a4a1b79a797?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Snail", "desc": "Giant African land snail, tender and richly seasoned.", "price": 25, "category": "Seafood", "image": "https://images.unsplash.com/photo-1604329758197-8a4a1b79a797?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Ugba", "desc": "Fermented oil-bean salad, available on request.", "price": null, "category": "Seafood", "image": "https://images.unsplash.com/photo-1604329758197-8a4a1b79a797?auto=format&fit=crop&w=1200&q=80" },
+
+    { "name": "Yam Porridge (Asaro)", "desc": "Soft-cooked yam pottage in a peppery palm-oil sauce.", "price": 12, "category": "Specialty", "image": "https://images.unsplash.com/photo-1604329756928-ac925cfd1ccd?auto=format&fit=crop&w=1200&q=80" },
+    { "name": "Beans", "desc": "Slow-cooked honey beans, served plain or with stew.", "price": 6, "category": "Specialty", "image": "https://images.unsplash.com/photo-1604329756928-ac925cfd1ccd?auto=format&fit=crop&w=1200&q=80" }
+  ]
+}
